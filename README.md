@@ -40,7 +40,7 @@ A professional WordPress website created for a charity auction event, built with
 - Caching mechanisms for improved load times
 
 ### WordPress Ecosystem
-- Custom post types for auction items
+- Custom product types for auction items
 - User role management for participants
 - Mobile-optimized responsive design
 
@@ -65,46 +65,6 @@ Participant login portal with secure access controls
 ![Registration](https://github.com/K4naxa/mahdollisuuksienkirppis_documents/raw/main/screenshots/mahdollisuuksienkirppis%20register.png)  
 CAPTCHA-protected registration form preventing automated signups
 
-## 🚀 Installation & Setup
-
-1. **WordPress Installation**
-   - Standard WordPress 5.8+ installation
-   - MySQL database setup
-
-2. **Theme Configuration**
-   - Install required parent theme
-   - Apply custom child theme modifications
-
-3. **WooCommerce Setup**
-   - Install WooCommerce plugin
-   - Configure product settings for auction items
-   - Set up custom review/bidding fields
-
-4. **Security Enhancements**
-   - Install reCAPTCHA plugin
-   - Configure spam protection settings
-
-## 🛠 Customization & Maintenance
-
-### Content Updates
-- Edit homepage content through WordPress Customizer
-- Manage auction items via Products post type
-- Update event details through Pages editor
-
-### Technical Maintenance
-- **Theme Updates**  
-  Always use child theme for customizations
-- **Plugin Management**  
-  Keep WooCommerce and security plugins updated
-- **Bid Monitoring**  
-  Review bids through WooCommerce comments interface
-
-## 🤝 Contribution Guidelines
-
-While this is currently a closed project, we welcome suggestions through:
-- GitHub Issues for technical improvements
-- Email proposals for feature requests
-- Pull requests (subject to maintainer review)
 
 ## 📄 License
 
@@ -113,4 +73,3 @@ This project is currently not licensed for redistribution. All rights belong to 
 ---
 
 **Created with ❤️ for charitable causes**  
-*Demonstrating that impactful web solutions can be built without budget constraints*
